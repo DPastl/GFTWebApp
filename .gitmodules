@@ -1,0 +1,3 @@
+[submodule "code/GliderFlightTest"]
+	path = code/GliderFlightTest
+	url = https://github.com/DPastl/GliderFlightTest.git
